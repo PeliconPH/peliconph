@@ -57,9 +57,9 @@ I build **architecture, performance, business impact and scalable systems**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeliconPH&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peliconph&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeliconPH&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropelicon&layout=compact" />
 </p>
