@@ -1,18 +1,19 @@
 name: Generate GitHub Profile Summary Cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # todo dia
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: PeliconPH
-          THEME: github_dark
+          BRANCH_NAME: main
+          AUTO_PUSH: true
