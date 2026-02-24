@@ -1,4 +1,4 @@
-name: Generate GitHub Profile Summary Cards
+name: GitHub Profile Summary Cards
 
 on:
   workflow_dispatch:
@@ -11,10 +11,11 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate summary cards
+      - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: PeliconPH
