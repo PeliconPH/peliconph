@@ -57,13 +57,13 @@ I build **architecture, performance, business impact and scalable systems**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PeliconPH/PeliconPH/main/profile-summary-card-output/PeliconPH/profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/PeliconPH/PeliconPH/main/profile-summary-card-output/dark/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PeliconPH/PeliconPH/main/profile-summary-card-output/PeliconPH/stats.svg" />
+  <img src="https://raw.githubusercontent.com/PeliconPH/PeliconPH/main/profile-summary-card-output/dark/3-stats.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PeliconPH/PeliconPH/main/profile-summary-card-output/PeliconPH/repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/PeliconPH/PeliconPH/main/profile-summary-card-output/dark/1-repos-per-language.svg" />
 </p>
