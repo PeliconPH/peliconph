@@ -53,3 +53,17 @@ I build **architecture, performance, business impact and scalable systems**.
 - Repository Pattern
 - Dependency Injection
 - SOLID
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PeliconPH/PeliconPH/main/profile-summary-card-output/PeliconPH/profile-details.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PeliconPH/PeliconPH/main/profile-summary-card-output/PeliconPH/stats.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PeliconPH/PeliconPH/main/profile-summary-card-output/PeliconPH/repos-per-language.svg" />
+</p>
